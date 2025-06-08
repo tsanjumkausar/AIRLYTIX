@@ -2,6 +2,8 @@
 
 AIRLYTIX is a web application that allows users to check the air quality and pollution levels for any location worldwide. Users can search by city name or enter latitude and longitude coordinates to get real-time air quality data, including the Air Quality Index (AQI) and concentrations of various pollutants.
 
+Link - https://airlytix-airqualitypollutionchecker.netlify.app/
+
 ## Features
 
 - Search air quality by city name (with optional state for USA).
